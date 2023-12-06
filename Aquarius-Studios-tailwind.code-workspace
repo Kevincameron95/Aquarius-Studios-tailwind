@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../2023 portoflio site KCD"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Aquarius-Studios-tailwind"
+	}
+}
